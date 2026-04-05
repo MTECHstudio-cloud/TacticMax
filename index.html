@@ -299,7 +299,13 @@
         <h2>Start training with TacticMax</h2>
         <p>Train tactics, improve vision, and track your growth with one free chess training app.</p>
         <div class="hero-buttons">
-          <a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.mtechforge.tacticmax" target="_blank" rel="noopener"><span class="play-badge" aria-hidden="true"></span><span class="play-text">Download now</span></a>
+          <a class="btn btn-primary" href="https://play.google.com/store/apps/details?id=com.mtechforge.tacticmax"
+             onclick="gtag('event', 'click_download', {
+             'event_category': 'engagement',
+             'event_label': 'play_store_button'
+             });">
+         Get it on Google Play
+        </a>
           <a class="btn btn-secondary" href="https://mtechstudio-cloud.github.io/chess-puzzle-privacy/privacy_policy.html" target="_blank" rel="noopener">View privacy policy</a>
         </div>
       </div>
