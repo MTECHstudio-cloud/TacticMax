@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+  <url>
+    <loc>https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/</loc>
+    <lastmod>2026-04-10</lastmod>
+    <image:image>
+      <image:loc>https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/assets/screenshot-main.png</image:loc>
+      <image:title>TacticMax chess tactics app home screen</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/assets/feature-puzzle-rush-3.png</image:loc>
+      <image:title>TacticMax Puzzle Rush mode</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/assets/feature-daily-puzzles.png</image:loc>
+      <image:title>TacticMax daily chess puzzle screen</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/assets/feature-analyse-6.png</image:loc>
+      <image:title>TacticMax analysis board</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/assets/feature-vision-trainer-tab-8.png</image:loc>
+      <image:title>TacticMax vision trainer screen</image:title>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mtechstudio-cloud.github.io/tacticmax_site_mobile_friendly/sitemap.xml
